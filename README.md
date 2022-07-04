@@ -7,5 +7,5 @@ Python and Visual Studio Code
 There were a total of 369,711 votes casted.
 Candidates were Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane.
 Charles Casper Stockham received 23%, Diana DeGette received 73.8%, and Raymon Anthony Doane received 3.1%.
-#Challenge
-##Summary
+# Challenge
+## Summary
